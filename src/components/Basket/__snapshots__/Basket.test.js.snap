@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Basket/> component should render 1`] = `
+<a
+  class="header__basket"
+  href="/basket"
+>
+  <img
+    alt=""
+    src="./img/shopping-cart.png"
+  />
+  0
+</a>
+`;

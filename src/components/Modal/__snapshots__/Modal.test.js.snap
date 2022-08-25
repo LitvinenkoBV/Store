@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Modal/> component should render 1`] = `
+<div
+  class="modal"
+>
+  <div
+    class="modal__content"
+  >
+    <div
+      class="modal__title"
+    >
+      Додати товар до кошику?
+    </div>
+    <div
+      class="modal__text"
+    />
+    <div
+      class="modal__button-confirm"
+    >
+      <button
+        class="modal__button-cancel"
+        value="false"
+      >
+        Ні
+      </button>
+    </div>
+  </div>
+</div>
+`;

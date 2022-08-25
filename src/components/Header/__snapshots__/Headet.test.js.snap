@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header/> component should render 1`] = `
+<header
+  class="header"
+>
+  <a
+    href="/"
+  >
+    <div
+      class="header__logo"
+    >
+      <img
+        alt=""
+        src="./img/logo.svg"
+      />
+    </div>
+  </a>
+  <div>
+    <a
+      class="header__basket"
+      href="/basket"
+    >
+      <img
+        alt=""
+        src="./img/shopping-cart.png"
+      />
+      0
+    </a>
+    <a
+      class="header__favorites"
+      href="/favorites"
+    >
+      <img
+        alt=""
+        src="./img/favorite.png"
+      />
+      0
+    </a>
+  </div>
+</header>
+`;
